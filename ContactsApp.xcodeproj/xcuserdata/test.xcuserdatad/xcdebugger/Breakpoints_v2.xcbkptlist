@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3CC61A0E-FF65-4D3B-B13B-6799A4570C36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93089FB8-82CE-437E-89EC-C0435D39ACC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "ContactsTableViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF80ACC-F8E5-4DF9-990E-13552DBFE7EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactTableViewCell/ContactTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CF80ACC-F8E5-4DF9-990E-13552DBFE7EB - c327207fc2cdb7e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactTableViewCell.configure(with: ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactTableViewCell/ContactTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "2CF80ACC-F8E5-4DF9-990E-13552DBFE7EB - c327207fc2cdb7e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactTableViewCell.configure(with: ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactTableViewCell/ContactTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "2CF80ACC-F8E5-4DF9-990E-13552DBFE7EB - c327207fc2cdb5a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactTableViewCell.configure(with: ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactTableViewCell/ContactTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "2CF80ACC-F8E5-4DF9-990E-13552DBFE7EB - c327207fc2cdb5a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactTableViewCell.configure(with: ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactTableViewCell/ContactTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E9034AB-E842-4070-A521-FD6D226B7241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "constructData(contacts:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E9034AB-E842-4070-A521-FD6D226B7241 - 4710eb72e7b2bea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewModel.constructData(contacts: Swift.Array&lt;ContactsApp.ContactModel&gt;) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "8E9034AB-E842-4070-A521-FD6D226B7241 - 4710eb72e7b2bf0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewModel.constructData(contacts: Swift.Array&lt;ContactsApp.ContactModel&gt;) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "updateData(contact:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890 - 5c0a5ce4f809af21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.CoreDataManager.updateData(contact: ContactsApp.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890 - 5c0a5ce4f809aee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.CoreDataManager.updateData(contact: ContactsApp.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890 - 5c0a5ce4f809af67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.CoreDataManager.updateData(contact: ContactsApp.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890 - 5c0a5ce4f809af67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.CoreDataManager.updateData(contact: ContactsApp.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "B992ABC0-CE2D-4485-AEF4-B1BA00843890 - 101b6ef61854f381"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.CoreDataManager.updateData(contact: ContactsAppTests.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0604B56E-C2C7-486F-A311-4D96A3AF9CAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "fetchContacts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0604B56E-C2C7-486F-A311-4D96A3AF9CAA - 814a863f24bafc7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewModel.showContactDetailsVC() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0604B56E-C2C7-486F-A311-4D96A3AF9CAA - 74a566708b136f8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ContactsApp.ContactModel&gt;, Swift.Error&gt;) -&gt; () in ContactsApp.ContactsTableViewModel.fetchContacts() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "0604B56E-C2C7-486F-A311-4D96A3AF9CAA - 74a566708b136f8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ContactsApp.ContactModel&gt;, Swift.Error&gt;) -&gt; () in ContactsApp.ContactsTableViewModel.fetchContacts() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D88E849-343B-4485-B3DE-CCF5B24CD7B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/TableViewManager/AnyCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(_:tableViewDidSelectRowHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D88E849-343B-4485-B3DE-CCF5B24CD7B9 - 93f04f158c25105d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.AnyCell.init&lt;&#x3c4;_0_0 where &#x3c4;_0_0: ContactsApp.CellModel&gt;(_: &#x3c4;_0_0, tableViewDidSelectRowHandler: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ContactsApp.AnyCell"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/TableViewManager/AnyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "1D88E849-343B-4485-B3DE-CCF5B24CD7B9 - 30f6f9501471aace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (&#x3c4;_0_0) -&gt; (__C.UITableView) -&gt; &#x3c4;_0_0.Cell in ContactsApp.AnyCell.init&lt;&#x3c4;_0_0 where &#x3c4;_0_0: ContactsApp.CellModel&gt;(_: &#x3c4;_0_0, tableViewDidSelectRowHandler: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ContactsApp.AnyCell"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/TableViewManager/AnyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "1D88E849-343B-4485-B3DE-CCF5B24CD7B9 - d3ff3a446a17fd03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (__C.UITableView) -&gt; &#x3c4;_0_0.Cell in implicit closure #1 (&#x3c4;_0_0) -&gt; (__C.UITableView) -&gt; &#x3c4;_0_0.Cell in ContactsApp.AnyCell.init&lt;&#x3c4;_0_0 where &#x3c4;_0_0: ContactsApp.CellModel&gt;(_: &#x3c4;_0_0, tableViewDidSelectRowHandler: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ContactsApp.AnyCell"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/TableViewManager/AnyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E - 346725a39611518f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactDetailsViewController.setupLayout() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E - 346725a39611518f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactDetailsViewController.setupLayout() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E - 346725a39611518f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactDetailsViewController.setupLayout() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E - 4d9e48b7b470c935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactDetailsViewController.setupLayout() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "A1EC7D17-861E-41E8-8657-38E122A5C06E - 4d9e48b7b470c935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactDetailsViewController.setupLayout() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDC47B6-57C0-4549-A0C4-A49F54402602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "subscribe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DDC47B6-57C0-4549-A0C4-A49F54402602 - fd1c93b9a63e2519"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsApp.ContactDetailsEvent) -&gt; () in ContactsApp.ContactDetailsViewController.subscribe() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "8DDC47B6-57C0-4549-A0C4-A49F54402602 - fd1c93b9a63e257a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsApp.ContactDetailsEvent) -&gt; () in ContactsApp.ContactDetailsViewController.subscribe() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8DDC47B6-57C0-4549-A0C4-A49F54402602 - fd1c93b9a63e2586"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsApp.ContactDetailsEvent) -&gt; () in ContactsApp.ContactDetailsViewController.subscribe() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8DDC47B6-57C0-4549-A0C4-A49F54402602 - de444314601f8e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsAppTests.ContactDetailsEvent) -&gt; () in ContactsAppTests.ContactDetailsViewController.subscribe() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C9AC721-D26C-482F-8767-951722E708C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "updateUI(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C9AC721-D26C-482F-8767-951722E708C6 - f845b8ec655680ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ContactsApp.AnyCell in ContactsApp.ContactsTableViewController.updateUI(ContactsApp.ContactScreen.ViewData) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0C9AC721-D26C-482F-8767-951722E708C6 - af76a9db584e3ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewController.updateUI(ContactsApp.ContactScreen.ViewData) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "0C9AC721-D26C-482F-8767-951722E708C6 - 25758fd0a3d6a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactsTableViewController.updateUI(ContactsAppTests.ContactScreen.ViewData) -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54E81DE9-F39E-4E9E-88C0-38AC87DE7119"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54E81DE9-F39E-4E9E-88C0-38AC87DE7119 - 5320b1938ed40a07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "54E81DE9-F39E-4E9E-88C0-38AC87DE7119 - 67b1de810e77c785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactsTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1851841A-B25A-4CEC-AC9D-D7EF1F310E0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1851841A-B25A-4CEC-AC9D-D7EF1F310E0C - f806b83e4039a5c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1851841A-B25A-4CEC-AC9D-D7EF1F310E0C - f45d334af2ee9240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactsTableViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F47F8B-B505-48CE-9092-C42D14B69D65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "retrieveContactsFromCoreData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0F47F8B-B505-48CE-9092-C42D14B69D65 - 7082206b5438ea7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewModel.retrieveContactsFromCoreData() -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D0F47F8B-B505-48CE-9092-C42D14B69D65 - 837c11c15601ff7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactsTableViewModel.retrieveContactsFromCoreData() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D00EF214-3EEF-4B16-93B7-2D3D9B5270E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "contactDetailsViewController"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D00EF214-3EEF-4B16-93B7-2D3D9B5270E4 - ece8a494967cd427"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; ContactsApp.ContactDetailsViewController in ContactsApp.ContactsTableViewModel.contactDetailsViewController.getter : ContactsApp.ContactDetailsViewController"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D00EF214-3EEF-4B16-93B7-2D3D9B5270E4 - 87d191f5bec8d423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactsTableViewModel.contactDetailsViewController.getter : ContactsApp.ContactDetailsViewController"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ViewModels/ContactsTableViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1593154-238A-4C98-9862-1C59FDCFFE43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "updateData(contact:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1593154-238A-4C98-9862-1C59FDCFFE43 - 5c0a5ce4f809af84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.CoreDataManager.updateData(contact: ContactsApp.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "C1593154-238A-4C98-9862-1C59FDCFFE43 - 101b6ef61854f362"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.CoreDataManager.updateData(contact: ContactsAppTests.ContactCoreDataModel) -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CDFB9F9-E787-4848-A983-2F485486EC5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "updateUI(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CDFB9F9-E787-4848-A983-2F485486EC5F - 2e0ff9f1ac893472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ContactsApp.ContactScreen.ContactCellViewModel) -&gt; ContactsApp.AnyCell in ContactsApp.ContactsTableViewController.updateUI(ContactsApp.ContactScreen.ViewData) -&gt; ()"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4CDFB9F9-E787-4848-A983-2F485486EC5F - d5fc7ce6577469eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ContactsAppTests.ContactScreen.ContactCellViewModel) -&gt; ContactsAppTests.AnyCell in ContactsAppTests.ContactsTableViewController.updateUI(ContactsAppTests.ContactScreen.ViewData) -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactsScreen/ContactsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AACDEB20-0F57-4331-A279-C64998B70BBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsApp/ContactDetails/ContactDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "init(contact:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AACDEB20-0F57-4331-A279-C64998B70BBC - daccee1e2c572a87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsApp.ContactDetailsViewModel.init(contact: Swift.Optional&lt;ContactsApp.ContactCoreDataModel&gt;) -&gt; ContactsApp.ContactDetailsViewModel"
+                  moduleName = "ContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "AACDEB20-0F57-4331-A279-C64998B70BBC - 80b34de75dd53b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsAppTests.ContactDetailsViewModel.init(contact: Swift.Optional&lt;ContactsAppTests.ContactCoreDataModel&gt;) -&gt; ContactsAppTests.ContactDetailsViewModel"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsApp/ContactDetails/ContactDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "221233BA-D4BE-4D6D-B1EB-DE69BFC25D10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsAppTests/ContactsScreen/ContactsTableViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testContactsDataPublisher()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "221233BA-D4BE-4D6D-B1EB-DE69BFC25D10 - 1cf952cf9ec26773"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsAppTests.ContactScreen.ViewData) -&gt; () in ContactsAppTests.ContactsTableViewModelTests.testContactsDataPublisher() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsAppTests/ContactsScreen/ContactsTableViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "221233BA-D4BE-4D6D-B1EB-DE69BFC25D10 - 1cf952cf9ec26773"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ContactsAppTests.ContactScreen.ViewData) -&gt; () in ContactsAppTests.ContactsTableViewModelTests.testContactsDataPublisher() -&gt; ()"
+                  moduleName = "ContactsAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/test/Desktop/Interviews%20+%20work/Pago/ContactsApp/ContactsAppTests/ContactsScreen/ContactsTableViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84FA9200-1585-4D5D-AC51-0A078A7014A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsAppTests/ContactsScreen/ContactsTableViewControllerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testViewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
